@@ -21,7 +21,10 @@ bot.on('message', (msg) => {
     if (err) {
       console.log('ERROR:', err);
     } else {
+      console.log(userCommand)
+      console.log(msg.from.username)
       console.log(response.output.text[0])
+      console.log('============================================================================================================================');
       bot.sendMessage(chatId, response.output.text[0])
     }
   });
