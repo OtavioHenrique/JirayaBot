@@ -4,7 +4,8 @@
   "description": "Wallwe the bot to tech events",
   "main": "index.js",
   "dependencies": {
-    "node-telegram-bot-api": "^0.27.0"
+    "node-telegram-bot-api": "^0.27.0",
+    "watson-developer-cloud": "^2.27.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
