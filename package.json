@@ -1,0 +1,26 @@
+{
+  "name": "wallwe",
+  "version": "1.0.0",
+  "description": "Wallwe the bot to tech events",
+  "main": "index.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.27.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OtavioHenrique/wallwe.git"
+  },
+  "keywords": [
+    "chatbot"
+  ],
+  "author": "Marco Bruno",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/OtavioHenrique/wallwe/issues"
+  },
+  "homepage": "https://github.com/OtavioHenrique/wallwe#readme"
+}
