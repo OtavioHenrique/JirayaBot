@@ -1,6 +1,6 @@
 const TelegramBot = require('node-telegram-bot-api')
 const watson = require('watson-developer-cloud')
-const tokenTelegram = '373446033:AAHLA1PbhkWGAKo0Y_IZoL4JtOUyd2Mq-4I'
+const tokenTelegram = '331513888:AAGDpVq27UOY87j5HAXrfl-RhSRmDyBfoGc'
 const bot = new TelegramBot(tokenTelegram, {polling: true})
 
 bot.on('message', (msg) => {
