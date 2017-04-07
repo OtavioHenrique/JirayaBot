@@ -8,14 +8,14 @@ bot.on('message', (msg) => {
   let userCommand = msg.text
 
   let conversation = watson.conversation({
-    username: '546209fe-1bec-4870-9886-b60f1163efb2',
-    password: '2Kxc7dYsjfHr',
+    username: '66748b75-7040-44c9-b7eb-5a304911a1be',
+    password: 'SJhAP1f422M7',
     version: 'v1',
     version_date: '2017-02-03'
   });
 
   conversation.message({
-    workspace_id: 'e520bfbf-4847-4a37-9895-cb6af107e33e',
+    workspace_id: '0f9cca51-0382-4ede-9bc0-f1e49d63533f',
     input: {'text': userCommand}
   }, (err, response) => {
     if (err) {
