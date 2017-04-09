@@ -1,0 +1,13 @@
+Amazon
+
+1.000 solicitações de texto seria de 0,75 USD
+0,00075 USD por solicitação de texto
+1.000 solicitações – R$3,360
+Cotação no momento da pesquisa 3,1467
+
+IBM
+
+2000 de graça
+
+R$0.004838 BRL/Chamada API
+1.000 solicitações – R$4.838
